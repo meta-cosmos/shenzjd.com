@@ -9,6 +9,12 @@
         "title": "React",
         "favicon": "https://react.dev/favicon-32x32.png",
         "url": "https://react.dev/"
+      },
+      {
+        "title": "GitHub - meta-cosmos/shenzjd.com",
+        "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+        "url": "https://github.com/meta-cosmos/shenzjd.com",
+        "id": "1741069080302"
       }
     ]
   },
